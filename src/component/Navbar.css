@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish&display=swap');
+.common_navbar{
+    margin-top: 50px;
+    
+}
+.main_navbar{
+    padding: 0 12px;
+    text-decoration: none !important;
+    color: black;
+    font-family: 'Mulish', sans-serif;
+}
+#nav-1{
+    font-size: 22px;
+}

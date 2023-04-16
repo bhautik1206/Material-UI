@@ -1,0 +1,46 @@
+h1{
+    margin-left: 50px;
+    font-size: 60px;
+    color:rgb(40, 40, 51);
+}
+.img1{
+    margin-top: -300px;
+    margin-right: 200px;
+    float: right;
+}
+p{
+    margin-left:50px;
+    color: rgb(40, 40, 51);
+    font-size: 20px;
+}
+.btn{
+    color: white;
+    font-size: 20px;
+    border: none;
+    margin-left: 50px;
+    /* margin: 10px; */
+    width: 200px;
+    height: 50px;
+    border-radius: 5px;
+    padding:0 10px ;
+}
+.btn:hover{
+    cursor: pointer;
+}
+
+.btn-1{
+    /* background-color: rgb(62, 62, 211); */
+    background-color: #0095E7;
+}
+.btn-1:hover{
+    background-color: aqua;
+    color: black;
+}
+.btn-2{
+    /* border: 1px solid black; */
+    background-color:#381671 ;
+}
+.btn-2:hover{
+    background-color:#00479F;
+    color: white;
+}
